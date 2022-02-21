@@ -1,0 +1,30 @@
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.exe
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.deps.json
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.runtimeconfig.json
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.runtimeconfig.dev.json
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.dll
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.pdb
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csprojAssemblyReference.cache
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana_Premiere_Edition.Form1.resources
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csproj.GenerateResource.cache
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.AssemblyInfoInputs.cache
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.AssemblyInfo.cs
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csproj.CoreCompileInputs.cache
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.dll
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.pdb
+C:\Users\azIIIm\source\repos\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.genruntimeconfig.cache
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csprojAssemblyReference.cache
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana_Premiere_Edition.Form1.resources
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csproj.GenerateResource.cache
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.AssemblyInfoInputs.cache
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.AssemblyInfo.cs
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.csproj.CoreCompileInputs.cache
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.dll
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.pdb
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.exe
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.deps.json
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.runtimeconfig.json
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.runtimeconfig.dev.json
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.dll
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\bin\Debug\netcoreapp3.1\Katana Premiere Edition.pdb
+C:\Users\azIIIm\Desktop\UNI SHIT\SEMESTER 4\MultiMedia\Katana Premiere Edition\Katana Premiere Edition\obj\Debug\netcoreapp3.1\Katana Premiere Edition.genruntimeconfig.cache
